@@ -1,0 +1,15 @@
+{
+  "name": "soulscode",
+  "version": "1.0.0",
+  "description": "Projeto para treinar programação de um modo único e apaixonante assim como meu , um dos meus modos favoritos de jogo.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev" 
+      },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "next": "^13.1.6",
+    "react": "^18.2.0"
+  }
+}
