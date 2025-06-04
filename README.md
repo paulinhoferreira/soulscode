@@ -1,3 +1,3 @@
-# soulscode
+# Cidade Santa Digital
 
-Projeto para treinar programação de um modo único e apaixonante assim como meu , um dos meus modos favoritos de jogo.
+Projeto para construir facilidades para a igreja do senhor Jesus.
