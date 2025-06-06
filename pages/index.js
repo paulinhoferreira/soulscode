@@ -1,19 +1,25 @@
 function Home() {
   return (
-    <h1>
-      Projeto Cidade Santa Digital "Simplificando o terreno para multiplicar o
-      mandamento" Paz do senhor a todos. Irmãos, o projeto Cidade Santa Digital
-      é um sonho antigo que tenho de criar um sistema para fornecer as igrejas
-      uma forma de se organizar da melhor forma possivel e entrar de vez no
-      mundo digital. Sair do controle manual , facilitando o controle
-      financeiro, de membros novos convertidos,escala de obreiros e muitos
-      outras demandas que podem surgir em novas atualizações. Tudo
-      gratuitamente, assim encurtando o tempo com a burocracia , sobrando tempo
-      para o mais importante. Ganhar Almas para o Reino. Hoje pela misericordia
-      de Deus , o Curso.Dev me deu a oportunidade de dar o primeiro passo
-      concreto, o meu espaço na internet já esta garantido. Aguarde novas
-      atualizações Deus abençoe a todos! " "{" "}
-    </h1>
+    <html lang="pt-BR">
+      <head>
+        <title>Cidade Santa Digital</title>
+      </head>
+      <body>
+        <h1>Cidade Santa Digital</h1>
+        <p>
+          Um projeto inspirado por Deus, que vem para ajudar a igreja do Senhor
+          a entrar na era digital para facilitar o crescimento da obra do
+          Senhor. O projeto foca em fornecer uma plataforma online para igrejas
+          terem acesso a diversos tipos de controle, como balanço de
+          contas,controle de dizmo e ofertas, escala de obreiros. Gerando
+          relatórios para fácil acompanhamento em tempo real e de qualquer
+          lugar.Liberando tempo para o mais importante. Ganhar almas para o
+          reino. Estamos em construção e Deus está nos guiando, logo teremos
+          atualizações. A paz do Senhor a todos.
+        </p>
+        <span>Paulo Ferreira</span>
+      </body>
+    </html>
   );
 }
 
