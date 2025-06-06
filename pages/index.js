@@ -25,8 +25,9 @@ function Home() {
             Sou iniciante na área , portanto estou cursando alguns cursos junto
             com o Curso.Dev por isso as atualizações vão sair conforme vou
             avançando e aprendendo. Se você que tem mais experiencia quiser
-            colaborar com o projeto , o respositório está a disposição. Vamos
+            colaborar com o projeto , o repositório está a disposição. Vamos
             fazer a diferença para honra e glória do Senhor!
+            https://github.com/paulinhoferreira
           </p>
         </h2>
 
