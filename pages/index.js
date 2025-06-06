@@ -27,9 +27,9 @@ function Home() {
             avançando e aprendendo. Se você que tem mais experiencia quiser
             colaborar com o projeto , o repositório está a disposição. Vamos
             fazer a diferença para honra e glória do Senhor!
-            https://github.com/paulinhoferreira
           </p>
         </h2>
+        <h2>https://github.com/paulinhoferreira</h2>
 
         <span>Paulo Ferreira</span>
       </body>
