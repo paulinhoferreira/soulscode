@@ -5,7 +5,9 @@ function Home() {
         <title>Cidade Santa Digital</title>
       </head>
       <body>
-        <h1>Cidade Santa Digital</h1>
+        <h1>
+          <b>Cidade Santa Digital</b>
+        </h1>
         <p>
           Um projeto inspirado por Deus, que vem para ajudar a igreja do Senhor
           a entrar na era digital para facilitar o crescimento da obra do
@@ -17,6 +19,17 @@ function Home() {
           reino. Estamos em construção e Deus está nos guiando, logo teremos
           atualizações. A paz do Senhor a todos.
         </p>
+        <h2>
+          <b>Atualizações</b>
+          <p>
+            Sou iniciante na área , portanto estou cursando alguns cursos junto
+            com o Curso.Dev por isso as atualizações vão sair conforme vou
+            avançando e aprendendo. Se você que tem mais experiencia quiser
+            colaborar com o projeto , o respositório está a disposição. Vamos
+            fazer a diferença para honra e glória do Senhor!
+          </p>
+        </h2>
+
         <span>Paulo Ferreira</span>
       </body>
     </html>
