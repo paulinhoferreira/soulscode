@@ -5,28 +5,38 @@ function Home() {
         <title>Cidade Santa Digital</title>
       </head>
       <body>
-        <h1 class="heading2">
-          <a href="#">Cidade Santa Digital </a>
+        <h1>
+          <a>Cidade Santa Digital</a>
         </h1>
         <p>
-          Um projeto inspirado por Deus, que vem para ajudar a igreja do Senhor
-          a entrar na era digital para facilitar o crescimento da obra do
-          Senhor. O projeto foca em fornecer uma plataforma online para igrejas
-          terem acesso a diversos tipos de controle, como balanço de
-          contas,controle de dizmo e ofertas, escala de obreiros. Gerando
-          relatórios para fácil acompanhamento em tempo real e de qualquer
-          lugar.Liberando tempo para o mais importante. Ganhar almas para o
-          reino. Estamos em construção e Deus está nos guiando, logo teremos
-          atualizações. A paz do Senhor a todos.
+          Irmãos estou estudando para disponibilizar a ferramenta para facilitar
+          a vida das igrejas digitalizando os processos que hoje são manuais.
+          Por enquanto vou utlizar esse espaço ma internet para disponibilizar
+          devocionais diários e assim melhorando aos poucos o site conforme vou
+          evoluindo o processo. Desde já agradeço a todos e{" "}
+          <b>Glória a Deus!</b>
         </p>
         <h2>
-          <b>Atualizações</b>
+          <b>Devocional Domingo</b>
+          <h3>
+            <u>Salmo 91:9-11</u>
+          </h3>
+          <b>
+            Porquanto afirmaste: <u>“O SENHOR é o meu refúgio”</u> e fizeste do
+            Altíssimo a tua morada, nenhum mal te alcançará, desgraça alguma
+            chegará à tua tenda. Porque a seus anjos Ele dará ordens a teu
+            respeito, para que te guardem em todos os teus caminhos;
+          </b>
+          <hr></hr>
           <p>
-            Sou iniciante na área , portanto estou cursando alguns cursos junto
-            com o Curso.Dev por isso as atualizações vão sair conforme vou
-            avançando e aprendendo. Se você que tem mais experiencia quiser
-            colaborar com o projeto , o repositório está a disposição. Vamos
-            fazer a diferença para honra e glória do Senhor!
+            Quando fazemos de Deus nosso refúgio , ou seja. Buscamos ele antes
+            de qualquer outra coisa , na hora boa ou ruim. Ele nos faz uma
+            promessa de nos guardar em todos os nosso caminhos , dando ordens
+            aos seus anjos sobre nosso respeito. Incrível os beneficios da
+            oração! Quando buscamos o SENHOR em oração como refugio, ele
+            responde com um promessa. E ele não é homem para que minta! Portando
+            quer que Deus ti veja , busque sem cessar irmão! Comece hoje! Que
+            Deus abençoe muito a vida de todos.
           </p>
         </h2>
         <h2>https://github.com/paulinhoferreira</h2>
