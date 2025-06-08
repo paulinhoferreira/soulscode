@@ -4,10 +4,10 @@ function Home() {
       <head>
         <title>Cidade Santa Digital</title>
       </head>
-<header id="heading" >
-    <h1 class = "heading2" >
-        <a href ="#">Cidade Santa Digital </a>
-    </h1>
+      <body>
+        <h1 class="heading2">
+          <a href="#">Cidade Santa Digital </a>
+        </h1>
         <p>
           Um projeto inspirado por Deus, que vem para ajudar a igreja do Senhor
           a entrar na era digital para facilitar o crescimento da obra do
