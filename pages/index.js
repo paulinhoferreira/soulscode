@@ -6,18 +6,21 @@ function Home() {
       </head>
       <body>
         <h1>
-          <a>Cidade Santa Digital</a>
+          <a>
+            <u>Cidade Santa Digital</u>
+          </a>
         </h1>
-        <p>
-          Irmãos estou estudando para disponibilizar a ferramenta para facilitar
-          a vida das igrejas digitalizando os processos que hoje são manuais.
-          Por enquanto vou utlizar esse espaço ma internet para disponibilizar
-          devocionais diários e assim melhorando aos poucos o site conforme vou
-          evoluindo o processo. Desde já agradeço a todos e{" "}
-          <b>Glória a Deus!</b>
-        </p>
+        Irmãos estou estudando para disponibilizar a ferramenta para facilitar a
+        vida das igrejas digitalizando os processos que hoje são manuais. Por
+        enquanto vou utlizar esse espaço na internet para disponibilizar
+        devocionais diários e assim melhorando aos poucos o site conforme vou
+        evoluindo o processo. Desde já agradeço a todos e <b>Glória a Deus!</b>
         <h2>
-          <b>Devocional Domingo</b>
+          <b>
+            <u>
+              <i>Devocional Domingo</i>
+            </u>
+          </b>
           <h3>
             <u>Salmo 91:9-11</u>
           </h3>
@@ -40,8 +43,8 @@ function Home() {
           </p>
         </h2>
         <h2>https://github.com/paulinhoferreira</h2>
-
         <span>Paulo Ferreira</span>
+        <span>Servo do SENHOR</span>
       </body>
     </html>
   );
