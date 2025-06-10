@@ -29,10 +29,10 @@ function Home() {
             <u>Romanos 5: 3-5</u>
           </h2>
           <p>
-            Porque aprendemos que a tribulação produz <b>perseverança.</b>a
+            Porque aprendemos que a tribulação produz perseverança e a
             perseverança produz um caráter aprovado; e o caráter aprovado produz
             confiança.E a confiança não nos decepciona, porque Deus derramou seu
-            amor em nossos corações, por meio do Espírito Santo que Ele mesmo
+            amor em nossos corações, por meio do Espírito Santo que ele mesmo
             nos outorgou.
           </p>
         </header>
