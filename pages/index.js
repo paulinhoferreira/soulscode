@@ -26,12 +26,16 @@ function Home() {
         <hr></hr>
         <h2>
           <b>
-            <u>Romanos 5:3-5</u>
+            <u>
+              <b>Romanos 5:3-5</b>
+            </u>
           </b>
         </h2>
         <P>
           <u>
-            <i>Porque aprendemos que a tribulação produz perseverança;</i>
+            <i>
+              Porque aprendemos que a tribulação produz <b>perseverança.</b>
+            </i>
           </u>
         </P>
         a perseverança produz um caráter aprovado; e o caráter aprovado produz
