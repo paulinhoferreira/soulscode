@@ -40,12 +40,11 @@ function Home() {
         <hr></hr>
         <h3>
           <b>
-            A paz do Senhor a todos, irmãos o apóstolo paulo deixa claro o que
-            <u>perseverança</u> traz para nossas vidas, um caráter aprovado
-            perante a Deus e consequentemente confiança. A confiança não nos
-            decepciona nunca. Ou seja perseverar nunca vai ti decepcionar! Está
-            dificil? Que bela oportunidade de perseverar! Que Deus abençoe a
-            Todos.
+            A paz do Senhor a todos, irmãos o apóstolo Paulo deixa claro o que
+            perseverar traz para nossas vidas, um caráter aprovado perante a
+            Deus e consequentemente confiança. A confiança não nos decepciona
+            nunca. Ou seja perseverar nunca vai ti decepcionar! Está dificil?,
+            Que bela oportunidade de perseverar! Que Deus abençoe a Todos.
           </b>
         </h3>
         <h2>https://github.com/paulinhoferreira</h2>
