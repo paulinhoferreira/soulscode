@@ -24,32 +24,28 @@ function Home() {
           <b>Glória a Deus!</b>
         </p>
         <hr></hr>
-        <h2>
-          <b>
-            <u>
-              <b>Romanos 5:3-5</b>
-            </u>
-          </b>
-        </h2>
-        <P>
-          <u>
-            <i>
-              Porque aprendemos que a tribulação produz <b>perseverança.</b>
-            </i>
-          </u>
-        </P>
-        a perseverança produz um caráter aprovado; e o caráter aprovado produz
-        confiança.E a confiança não nos decepciona, porque Deus derramou seu
-        amor em nossos corações, por meio do Espírito Santo que Ele mesmo nos
-        outorgou.
+        <header>
+          <h2>
+            <u>Romanos 5: 3-5</u>
+          </h2>
+          <p>
+            Porque aprendemos que a tribulação produz <b>perseverança.</b>a
+            perseverança produz um caráter aprovado; e o caráter aprovado produz
+            confiança.E a confiança não nos decepciona, porque Deus derramou seu
+            amor em nossos corações, por meio do Espírito Santo que Ele mesmo
+            nos outorgou.
+          </p>
+        </header>
+
         <hr></hr>
         <h3>
           <b>
             A paz do Senhor a todos, irmãos o apóstolo paulo deixa claro o que a
-            perseverança traz para nossas vidas, um caráter aprovado perante a
-            Deus e consequentemente confiança. A confiança não nos decpciona
-            nunca. Ou seja perseverar nunca vai ti decepcionar! Está dificil?
-            Que bela oportunidade de perseverar! Que Deus abeçoe a Todos.
+            <u>perseverança</u> traz para nossas vidas, um caráter aprovado
+            perante a Deus e consequentemente confiança. A confiança não nos
+            decpciona nunca. Ou seja perseverar nunca vai ti decepcionar! Está
+            dificil? Que bela oportunidade de perseverar! Que Deus abeçoe a
+            Todos.
           </b>
         </h3>
         <h2>https://github.com/paulinhoferreira</h2>
