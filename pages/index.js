@@ -4,8 +4,8 @@ function Home() {
       <head>
         <title>Cidade Santa Digital</title>
       </head>
-      <header id="heading">
-        <h1 class="heading2">
+      <header>
+        <h1>
           <a href="#">Cidade Santa Digital </a>
         </h1>
       </header>
@@ -26,25 +26,29 @@ function Home() {
         <hr></hr>
         <header>
           <h2>
-            <u>Romanos 5: 3-5</u>
+            <u>Romanos 7:22-25</u>
           </h2>
           <p>
-            Porque aprendemos que a tribulação produz perseverança e a
-            perseverança produz um caráter aprovado; e o caráter aprovado produz
-            confiança.E a confiança não nos decepciona, porque Deus derramou seu
-            amor em nossos corações, por meio do Espírito Santo que ele mesmo
-            nos outorgou.
+            Pois no íntimo da minha alma tenho prazer na Lei de Deus;contudo,
+            vejo uma outra lei agindo nos membros do meu corpo, guerreando
+            contra a lei da minha razão, tornando-me prisioneiro da lei do
+            pecado que atua em todos os meus membros.Miserável ser humano que
+            sou! Quem me libertará deste corpo de morte?Graças a Deus, por Jesus
+            Cristo,nosso Senhor! De modo que, eu mesmo com a razão sirvo à Lei
+            de Deus, mas com a carne à lei do pecado.
           </p>
         </header>
 
         <hr></hr>
         <h3>
           <b>
-            A paz do Senhor a todos, irmãos o apóstolo Paulo deixa claro o que
-            perseverar traz para nossas vidas, um caráter aprovado perante a
-            Deus e consequentemente confiança. A confiança não nos decepciona
-            nunca. Ou seja perseverar nunca vai ti decepcionar! Está dificil?,
-            Que bela oportunidade de perseverar! Que Deus abençoe a Todos.
+            A paz do Senhor a todos irmãos!Quantas vezes na nossa jornada oramos
+            por algo, planejamos algo. Mas no ultimo momento fazemos outra coisa
+            completamente diferente.Somos todos inclinados ao pecado por sermos
+            filhos do mesmo, nossa carne por si luta para seja satisfeita na sua
+            natureza pecaminosa. Mas nossa alma no seu intimo tem prazer na lei
+            do Senhor Nosso Deus.Portantos vamos persisitir em buscar nossa
+            melhor versão em cristo Jesus.
           </b>
         </h3>
         <h2>https://github.com/paulinhoferreira</h2>
