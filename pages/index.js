@@ -45,9 +45,9 @@ function Home() {
             A paz do Senhor a todos, Irmãos o apóstolo Paulo me deixa uma lição
             importante nestes versiculos. Quem nem todo meio justifica o
             fim.Muitas vezes a busca pode ser nobre! Mas os meios que você está
-            buscando não são, está claro cada vez vez mais que avançamos no
-            livro de romanos que o unico meio de alcançar a salvação é pela fé ,
-            a fé em Cristo Jesus como Nosso Senhor e salvador de nossas Almas.
+            buscando não são, está claro cada vez mais que avançamos no livro de
+            romanos que o unico meio de alcançar a salvação é pela fé , a fé em
+            Cristo Jesus como Nosso Senhor e salvador de nossas Almas.
           </b>
         </h3>
         <h2>https://github.com/paulinhoferreira</h2>
