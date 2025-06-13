@@ -26,29 +26,28 @@ function Home() {
         <hr></hr>
         <header>
           <h2>
-            <u>Romanos 7:22-25</u>
+            <u>Romanos 9:30-33</u>
           </h2>
           <p>
-            Pois no íntimo da minha alma tenho prazer na Lei de Deus;contudo,
-            vejo uma outra lei agindo nos membros do meu corpo, guerreando
-            contra a lei da minha razão, tornando-me prisioneiro da lei do
-            pecado que atua em todos os meus membros.Miserável ser humano que
-            sou! Quem me libertará deste corpo de morte?Graças a Deus, por Jesus
-            Cristo,nosso Senhor! De modo que, eu mesmo com a razão sirvo à Lei
-            de Deus, mas com a carne à lei do pecado.
+            A que conclusão chegamos? Os gentios, que não procuravam justiça, a
+            receberam, uma justiça que vem pela fé;entretanto, Israel, que
+            buscava uma lei que trouxesse justiça, não a alcançou.E porque não?
+            Porque não a buscava pela fé, mas como que por meio das obras. Eles
+            tropeçaram na “pedra de tropeço”.Como está escrito: “Eis que ponho
+            em Sião uma pedra de tropeço e uma rocha de escândalo; mas aquele
+            que nela confia jamais será envergonhado!”
           </p>
         </header>
 
         <hr></hr>
         <h3>
           <b>
-            A paz do Senhor a todos irmãos!Quantas vezes na nossa jornada oramos
-            por algo, planejamos algo. Mas no ultimo momento fazemos outra coisa
-            completamente diferente.Somos todos inclinados ao pecado por sermos
-            filhos do mesmo, nossa carne por si luta para seja satisfeita na sua
-            natureza pecaminosa. Mas nossa alma no seu intimo tem prazer na lei
-            do Senhor Nosso Deus.Portantos vamos persisitir em buscar nossa
-            melhor versão em cristo Jesus.
+            A paz do Senhor a todos, Irmãos o apóstolo Paulo me deixa uma lição
+            importante nestes versiculos. Quem nem todo meio justifica o
+            fim.Muitas vezes a busca pode ser nobre! Mas os meios que você está
+            buscando não são, está claro cada vez vez mais que avançamos no
+            livro de romanos que o unico meio de alcançar a salvação é pela fé ,
+            a fé em Cristo Jesus como Nosso Senhor e salvador de nossas Almas.
           </b>
         </h3>
         <h2>https://github.com/paulinhoferreira</h2>
