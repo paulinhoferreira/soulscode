@@ -26,30 +26,62 @@ function Home() {
         <hr></hr>
         <header>
           <h2>
-            <u>Romanos 9:30-33</u>
+            <u>Daniel 12:4</u>
           </h2>
           <p>
-            A que conclusão chegamos? Os gentios, que não procuravam justiça, a
-            receberam, uma justiça que vem pela fé;entretanto, Israel, que
-            buscava uma lei que trouxesse justiça, não a alcançou.E porque não?
-            Porque não a buscava pela fé, mas como que por meio das obras. Eles
-            tropeçaram na “pedra de tropeço”.Como está escrito: “Eis que ponho
-            em Sião uma pedra de tropeço e uma rocha de escândalo; mas aquele
-            que nela confia jamais será envergonhado!”
+            Porém tu, ó querido Daniel, tranca em segredo, mediante um selo, as
+            palavras do Livro, até o tempo próprio do fim. Muitos farão de tudo
+            e correrão de uma parte a outra em busca do maior saber; e o
+            conhecimento se multiplicará muitas e muitas vezes!”
           </p>
         </header>
 
         <hr></hr>
         <h3>
           <b>
-            A paz do Senhor a todos, Irmãos o apóstolo Paulo me deixa uma lição
-            importante nestes versiculos. Quem nem todo meio justifica o
-            fim.Muitas vezes a busca pode ser nobre! Mas os meios que você está
-            buscando não são, está claro cada vez mais que avançamos no livro de
-            romanos que o unico meio de alcançar a salvação é pela fé , a fé em
-            Cristo Jesus como Nosso Senhor e salvador de nossas Almas.
+            A palavra foi selada pois da a entender que não era para o tempo de
+            Daniel e sim para o tempo que havia de vir. Essa busca por
+            conhecimento , que se multiplica pode ser para nosssa edificação ou
+            para nossa destruição. Temos hoje em mãos uma ferramena para busca
+            de informações,livros e videos para adquirir conhecimento. Mas
+            nenhuma dessas fontes substitui a plavra do nosso Senhor Deus, a
+            Biblia sagrada, portanto podem ser consideradas apenas fontes de
+            buscas complementares somente, que fique bem claro. Essa é forma
+            mais edificante para o uso na busca do reino.{" "}
+            <u>
+              Qualquer outra facilidade que uma IA, Youtube , Google que venham
+              trazer excluindo a busca na Biblia em primeiro lugar , deve ser
+              questionada.
+            </u>
           </b>
         </h3>
+        <hr></hr>
+        <h2>
+          <u>Daniel 12:10</u>
+        </h2>
+        <p>
+          Muitos serão colocados à prova, e assim serão joeirados, purificados e
+          aperfeiçoados; no entanto, os malignos continuarão praticando
+          impiedades. Nenhum dos ímpios dará ouvidos à estas palavras, tampouco
+          buscarão entendimento; mas os sábios e prudentes sim, estes
+          entenderão.
+        </p>
+        <hr></hr>
+        <h3>
+          <b>
+            A importância da busca pelo conhecimento da forma correta nos faz
+            colher os frutos na hora correta. Quem tem ouvidos que ouça, o que o
+            anjo do Senhor diz a Igreja. Somente lendo e estudando as escrituras
+            podemos entender o que temos que fazer para nos prepapar para o que
+            há de vir e como utilizar as ferramentas que a inteligência humana
+            através do espirito nos foi dada. Mas o que vemos é o homem
+            destruindo mais uma vez uma ferramenta que poderia ser utilizada
+            para o bem , para o mau, para aplicar golpes,ganhar dinheiro
+            ílicito,enganando outras pessoas. "Nenhum dos ímpios dara ouvidos a
+            essa palavra".
+          </b>
+        </h3>
+
         <h2>https://github.com/paulinhoferreira</h2>
         <span>Paulo Ferreira</span>
         <br></br>
