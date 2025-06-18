@@ -12,7 +12,7 @@ function Home() {
       <body>
         <h1>
           <u>
-            <b>Jesus e Nosso Proposito</b>
+            <b>Jesus é Nosso Proposito</b>
           </u>
         </h1>
         <p>
